@@ -1,0 +1,34 @@
+body {
+    background-color: burlywood;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: white;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    color: mediumseagreen;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: chocolate;
+    color: peachpuff;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+    color: mediumseagreen;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color: peachpuff;
+    color: chocolate;
+}
